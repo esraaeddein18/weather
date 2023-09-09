@@ -1,0 +1,59 @@
+.content{
+    background-color: rgba(30, 32, 43, 0.905);
+    background-image: none !important;
+}
+.location {
+    position: relative;
+    margin-bottom: 70px;
+    width: 100%;
+    padding: 10px 50px;
+    background: #262936;
+    color: white;
+    border-radius: 50px;
+}
+.contact .card {
+    background: #262936;
+    padding-top:250px ;
+}
+.contact .card p{
+    color: rgb(154, 152, 152);
+}
+h6 a {
+    color: rgb(154, 152, 152) !important;
+    cursor: pointer;
+}
+h2{
+    color: white;
+}
+.form-control{
+    border-radius: 30px;
+    padding: 10px 15px;
+    background-color: rgba(30, 32, 43, 0.905);
+}
+input,textarea{
+    border: 1px solid rgb(154, 152, 152) !important;
+}
+.form-control::placeholder{
+    color: rgb(154, 152, 152) !important;
+}
+textarea{
+    height: 150px;
+}
+button{
+    margin-top: 20px;
+    border-radius: 50px !important;
+    width: 20%;
+}
+.Logo{
+    margin-left: 33px;
+    
+}
+ .Logo h1{
+    color:white;
+    font-size: 14px !important;
+ } 
+.Logo small{
+    font-size: 12px;color:white;
+}
+
+
